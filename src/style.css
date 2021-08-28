@@ -28,7 +28,7 @@ header ul {
   display: flex;
   padding: 0.4rem;
   color: black;
-  font-size: 12px;
+  font-size: 13.5px;
 }
 
 nav ul {
@@ -94,6 +94,8 @@ li a:hover {
 section article a {
   border-radius: 15px;
   background-color: white;
+}
+section article a image {
 }
 article a {
   justify-content: space-between;
