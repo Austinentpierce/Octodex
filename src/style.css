@@ -135,6 +135,38 @@ section article ul li a {
   text-decoration: underline;
   color: blue;
 }
+.surf:hover {
+  text-decoration: underline;
+  color: blue;
+}
+.scuba:hover {
+  text-decoration: underline;
+  color: blue;
+}
+.dino:hover {
+  text-decoration: underline;
+  color: blue;
+}
+.spider:hover {
+  text-decoration: underline;
+  color: blue;
+}
+.drcat:hover {
+  text-decoration: underline;
+  color: blue;
+}
+.dc:hover {
+  text-decoration: underline;
+  color: blue;
+}
+.funk:hover {
+  text-decoration: underline;
+  color: blue;
+}
+.deck:hover {
+  text-decoration: underline;
+  color: blue;
+}
 .pp {
   display: flex;
   justify-content: space-between;
