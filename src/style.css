@@ -47,6 +47,9 @@ section {
   flex-wrap: wrap;
   justify-content: center;
 }
+article {
+  border-radius: 15px;
+}
 
 nav ul li {
 }
@@ -124,7 +127,11 @@ section article ul li a {
   text-decoration: underline;
   color: blue;
 }
-.pp {
+.sent:hover {
+  text-decoration: underline;
+  color: blue;
+}
+.box .pp {
   display: flex;
   justify-content: space-between;
   background-color: whitesmoke;
