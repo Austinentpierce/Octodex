@@ -51,8 +51,6 @@ article {
   border-radius: 15px;
 }
 
-nav ul li {
-}
 main article {
   display: flex;
   padding: 1.25rem;
@@ -95,10 +93,12 @@ li a:hover {
   text-decoration: underline;
 }
 section article a {
-  border-radius: 15px;
+  border-radius: 0.75rem;
   background-color: white;
 }
-section article a image {
+section article a img {
+  border-radius: 0.75rem;
+  background-color: white;
 }
 article a {
   justify-content: space-between;
@@ -131,7 +131,11 @@ section article ul li a {
   text-decoration: underline;
   color: blue;
 }
-.box .pp {
+.box:hover {
+  text-decoration: underline;
+  color: blue;
+}
+.pp {
   display: flex;
   justify-content: space-between;
   background-color: whitesmoke;
