@@ -96,11 +96,11 @@ li a:hover {
 section article a {
   border-radius: 0.75rem;
   background-color: white;
+  border: 0.65px solid lightgray;
 }
 section article a img {
   border-radius: 0.75rem;
   background-color: white;
-  border: 0.65px solid lightgray;
 }
 article a {
   justify-content: space-between;
@@ -120,6 +120,7 @@ section article {
 section article ul li a {
   background-color: whitesmoke;
   padding: 0rem;
+  border: 0px solid whitesmoke;
 }
 .Terra:hover {
   text-decoration: underline;
