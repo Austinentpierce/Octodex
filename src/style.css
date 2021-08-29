@@ -50,14 +50,12 @@ section {
   flex-wrap: wrap;
   justify-content: center;
 }
-article {
-  border-radius: 15px;
-}
 
 main article {
   display: flex;
-  padding: 0.75rem;
+  padding: 0.5rem;
   flex-wrap: wrap;
+  padding-top: 1.5rem;
 }
 
 main article ul {
