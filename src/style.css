@@ -249,3 +249,9 @@ footer {
   border-top: 0.5px solid lightgray;
   margin-top: 4rem;
 }
+@media all and (min-width: 375px) {
+  header {
+    padding-right: 3rem;
+    color: violet;
+  }
+}
