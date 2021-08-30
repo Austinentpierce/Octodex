@@ -27,6 +27,7 @@ header {
   position: sticky;
   top: 0;
   padding-right: 0rem;
+  opacity: 0.8;
 }
 header ul {
   display: flex;
@@ -125,54 +126,12 @@ section article ul li a {
   padding: 0rem;
   border: 0px solid whitesmoke;
 }
-.Terra:hover {
+
+article strong:hover {
   text-decoration: underline;
   color: blue;
 }
-.gato:hover {
-  text-decoration: underline;
-  color: blue;
-}
-.sent:hover {
-  text-decoration: underline;
-  color: blue;
-}
-.box:hover {
-  text-decoration: underline;
-  color: blue;
-}
-.surf:hover {
-  text-decoration: underline;
-  color: blue;
-}
-.scuba:hover {
-  text-decoration: underline;
-  color: blue;
-}
-.dino:hover {
-  text-decoration: underline;
-  color: blue;
-}
-.spider:hover {
-  text-decoration: underline;
-  color: blue;
-}
-.drcat:hover {
-  text-decoration: underline;
-  color: blue;
-}
-.dc:hover {
-  text-decoration: underline;
-  color: blue;
-}
-.funk:hover {
-  text-decoration: underline;
-  color: blue;
-}
-.deck:hover {
-  text-decoration: underline;
-  color: blue;
-}
+
 .pp {
   display: flex;
   justify-content: space-between;
